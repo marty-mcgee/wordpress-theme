@@ -1,6 +1,6 @@
 {
   "name": "wordpress-theme",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Boilerplate WordPress Theme for development with JavaScript libraries and frameworks: React, Vue, TypeScript",
   "main": "my-wordpress-theme.php",
   "scripts": {
