@@ -1,2 +1,9 @@
-# wordpress-theme
-Boilerplate WordPress Theme for development with JavaScript libraries and frameworks: React, Vue, Vanilla, TypeScript
+# 🌱 wordpress-theme
+
+## Project Description
+
+Boilerplate WordPress Theme structure to support development of JavaScript frameworks: React, Vue, Vanilla, TypeScript, supporting Vite, NextJS, Nuxt, Gatsby, and JSX/TSX Components (like MUI), CSS (like Tailwind + Unity), data APIs (like REST and GraphQL).
+
+Supports ESLint + Prettier code definitions and formatting standards.
+
+> part of the 🌱 threed.ai family

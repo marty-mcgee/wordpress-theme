@@ -1,7 +1,7 @@
 {
   "name": "wordpress-theme",
-  "version": "0.0.2",
-  "description": "Boilerplate WordPress Theme for development with JavaScript libraries and frameworks: React, Vue, Vanilla, TypeScript",
+  "version": "0.0.3",
+  "description": "Boilerplate WordPress Theme structure to support development of JavaScript frameworks: React, Vue, Vanilla, TypeScript, supporting Vite, NextJS, Nuxt, Gatsby, and JSX/TSX Components (like MUI), CSS (like Tailwind + Unity), data APIs (like REST and GraphQL). Supports TSC, ESLint + Prettier code definitions and formatting standards.",
   "main": "my-wordpress-theme.php",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,5 +15,17 @@
   "bugs": {
     "url": "https://github.com/marty-mcgee/wordpress-theme/issues"
   },
-  "homepage": "https://github.com/marty-mcgee/wordpress-theme#readme"
+  "homepage": "https://github.com/marty-mcgee/wordpress-theme#readme",
+  "keywords": [
+    "wordpress",
+    "wordpress-theme",
+    "react",
+    "javascript",
+    "mui",
+    "vue",
+    "vite",
+    "typescript",
+    "tsx",
+    "jsx"
+  ]
 }
