@@ -23,10 +23,10 @@ if ( ! defined( 'WPINC' ) ) {
 }
 
 /**
- * Current plugin version.
+ * Current theme version.
  * Start at version 0.0.1 using SemVer -- https://semver.org
  */
-define( 'THREED_GARDEN_VERSION', '0.7.11' );
+define( 'THREED_GARDEN_VERSION', '0.11.3' );
 
 /**
  * The code that runs during plugin activation.
