@@ -1,0 +1,19 @@
+{
+  "name": "wordpress-theme",
+  "version": "0.0.1",
+  "description": "Boilerplate WordPress Theme for development with JavaScript libraries and frameworks: React, Vue, TypeScript",
+  "main": "my-wordpress-theme.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marty-mcgee/wordpress-theme.git"
+  },
+  "author": "Marty McGee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marty-mcgee/wordpress-theme/issues"
+  },
+  "homepage": "https://github.com/marty-mcgee/wordpress-theme#readme"
+}
